@@ -1,0 +1,36 @@
+.container{
+    margin-left:120px;
+    margin-top:160px;
+    display: flex;
+  }
+  
+  .box{
+    height: 4rem;
+    width: 4rem;
+  }
+  .logo-container{
+    display: flex;
+  }
+  .orange{
+      background-color: #F25022;
+      margin-right:0.4rem;
+      margin-bottom: 0.4rem;
+  }
+  .blue{
+    background-color: #02A5F0;
+  }
+  .green{
+      background-color: #7FBB01;
+      margin-bottom: 0.4rem;
+  }
+  .yellow{
+      background-color: #FFB901
+  }
+  
+  h1{
+    font-family: 'Poppins', sans-serif;
+    font-size:6rem;
+    color:#737373;
+    margin-top:1px;
+    margin-left:10px;
+  }
